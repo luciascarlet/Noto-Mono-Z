@@ -1,2 +1,2 @@
 # Noto-Mono-Z
-Noto Mono but the "0" has a line going through it or something
+Noto Mono but the "0" is slashed. This was created because Noto Mono doesn't actually have a slashed zero or much to really distinguish the zero from the O, so I quickly made this for use in code. All credit goes to Google for creating the original Noto Mono font. I do not own the rights to the _Noto_ font name or any of the glyphs inside of the font; literally all I did was add a slash to the zero.
